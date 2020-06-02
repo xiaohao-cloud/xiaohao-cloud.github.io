@@ -13,23 +13,23 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MatJek
+title: 吴臻の博客
 description: > # this means to ignore newlines until "baseurl:"
-  Material theme based on <a href="http://materializecss.com">Materialize.css</a> for jekyll sites
+  大道汜兮,其可左右。万物恃之以生而不辞,功成而不有。衣养万物而不为主，常无欲,可名于小;万物归焉而不为主,可名为大。以其终不自为大,故能成其大。
 baseurl: "/matjek"
-url: "https://shawnteoh.github.io"
+url: "https://zhenwu99.github.io"
 permalink: /:year/:month/:day/:title
-repository: ShawnTeoh/matjek
+repository: zhenwu99/matjek
 paginate: 5
 
 # MatJek specific configurations
-github_profile: "https://github.com/ShawnTeoh"
-user: "John Doe"
-user_email: "john@doe.com"
-contact_url: "https://goo.gl/tVljbV"
-google_tracking_id: "UA-96359860-1"
-google_site_verification: "UA-96359860-1"
-disqus_shortname: "matjek"
+github_profile: "https://zhenwu99.github.io"
+user: "Wu Zhen"
+user_email: "2627362065@qq.com"
+contact_url: "https://docs.google.com/forms/d/e/1FAIpQLSf0vo6IWeLIVhz7FpFKv-T52JCecEm69cj_PoQg72YH-qa8lg/viewform?usp=pp_url"
+google_tracking_id: ""
+google_site_verification: ""
+disqus_shortname: "wuzhen"
 
 # Build settings
 markdown: kramdown

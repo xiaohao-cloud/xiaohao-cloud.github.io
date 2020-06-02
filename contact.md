@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Contact"
+title: "给我留言"
 css: ["contact.css"]
 ---
 <div class="col s12">
